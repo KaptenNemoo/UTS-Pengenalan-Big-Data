@@ -12,13 +12,11 @@ berdasarkan tipe <br>
 CASSANDRA <br>
 INSTALASI<br>
 1. cek java dan jdk apakah sudah terinstall<br>
-<iframe width="420" height="315"
-src="img/">
-</iframe>
+
 <br>2. Download package dan ekstrak
 
-<br>3.  Menambhkan repository cassandra ke etc/apt/sources.list.d/cassandra/sources.list
-echo "deb https://downloads.apache.org/cassandra/debian 311x main" | sudo tee -a /etc/apt/sources.list.d/cassandra.sources.list
+<br>3.  Menambahkan repository cassandra ke `etc/apt/sources.list.d/cassandra/sources.list`
+`echo "deb https://downloads.apache.org/cassandra/debian 311x main" | sudo tee -a /etc/apt/sources.list.d/cassandra.sources.list`
 
 <br>4. menambahkan key repository
 
@@ -27,7 +25,7 @@ echo "deb https://downloads.apache.org/cassandra/debian 311x main" | sudo tee -a
 <br>6. Install Cassandra
 
 <br>7.  Selesai
- untuk menjalankan cassandra sudo service cassandra start untuk berhenti sudo service cassandra stop. 
+ untuk menjalankan cassandra `sudo service cassandra start` untuk berhenti `sudo service cassandra stop`. 
 
  
 </div>
