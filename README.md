@@ -32,3 +32,48 @@ echo "deb https://downloads.apache.org/cassandra/debian 311x main" | sudo tee -a
  
 </div>
 
+
+<div> 
+CRUD CASSNDRA
+1. menjalankan cql
+
+2. membuat keyspace
+
+
+
+
+
+
+
+
+
+
+
+3. menggunakan keyspace akademik dan membuat table mahasiswa (create)
+
+
+
+
+
+
+
+
+
+4. menginput data/insert into table mahasiswa (create)
+
+5. membaca isi table (read)
+
+6. mengupdate data (update)
+
+
+
+
+
+
+
+
+7. menghapus data(delete)
+
+
+</div>
+
