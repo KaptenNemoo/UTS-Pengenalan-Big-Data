@@ -34,7 +34,7 @@ echo "deb https://downloads.apache.org/cassandra/debian 311x main" | sudo tee -a
 
 
 <div> 
-CRUD CASSNDRA
+CRUD CASSANDRA<br>
 1. menjalankan cql
 
 2. membuat keyspace
