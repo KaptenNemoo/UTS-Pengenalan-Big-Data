@@ -15,7 +15,7 @@ INSTALASI<br>
 
 <br>2. Download package dan ekstrak
 
-<br>3.  Menambahkan repository cassandra ke `etc/apt/sources.list.d/cassandra/sources.list`
+<br>3.  Menambahkan repository cassandra ke `etc/apt/sources.list.d/cassandra/sources.list`<br>
 `echo "deb https://downloads.apache.org/cassandra/debian 311x main" | sudo tee -a /etc/apt/sources.list.d/cassandra.sources.list`
 
 <br>4. menambahkan key repository
