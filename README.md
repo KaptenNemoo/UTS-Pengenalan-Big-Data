@@ -11,8 +11,10 @@ berdasarkan tipe <br>
    <h3>2. Carilah contoh masalah big data yang bisa dikelola menggunakan salah satu DBMS tersebut, jelaskan mulai dari instalasi sampai CRUD untuk data menggunakan DBMS tersebut. Asumsikan anda akan memecahkan masalah big data yang sudah anda cari contoh tadi, jelaskan kira-kira bagaimana arsitektur dari solusi big data menggunakan DBMS tersebut, gambarkan diagramnya</h3> 
 CASSANDRA <br>
 INSTALASI<br>
-1. cek java dan jdk apakah sudah terinstall
-
+1. cek java dan jdk apakah sudah terinstall<br>
+<iframe width="420" height="315"
+src="img/">
+</iframe>
 2. Download package dan ekstrak
 
 3.  Menambhkan repository cassandra ke etc/apt/sources.list.d/cassandra/sources.list
