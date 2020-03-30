@@ -15,18 +15,18 @@ INSTALASI<br>
 <iframe width="420" height="315"
 src="img/">
 </iframe>
-2. Download package dan ekstrak
+<br>2. Download package dan ekstrak
 
-3.  Menambhkan repository cassandra ke etc/apt/sources.list.d/cassandra/sources.list
+<br>3.  Menambhkan repository cassandra ke etc/apt/sources.list.d/cassandra/sources.list
 echo "deb https://downloads.apache.org/cassandra/debian 311x main" | sudo tee -a /etc/apt/sources.list.d/cassandra.sources.list
 
-4. menambahkan key repository
+<br>4. menambahkan key repository
 
-5. Menambahkan public key
+<br>5. Menambahkan public key
 
-6. Install Cassandra
+<br>6. Install Cassandra
 
-7.  Selesai
+<br>7.  Selesai
  untuk menjalankan cassandra sudo service cassandra start untuk berhenti sudo service cassandra stop. 
 
  
