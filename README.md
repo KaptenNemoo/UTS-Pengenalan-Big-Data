@@ -31,21 +31,21 @@ INSTALASI<br>
 
 
 <div> 
-CRUD CASSANDRA<br>
+CRUD CASSANDRA Dalam akademik<br>
 1. menjalankan cql<br>
-<image src='dbnosql.png'><br>  
-2. membuat keyspace<br>
-<image src='dbnosql.png'>  <br>
+<image src='cqlsh.png'><br>  
+2. membuat keyspace akademik<br>
+<image src='create-keyspace.png'>  <br>
 3. menggunakan keyspace akademik dan membuat table mahasiswa (create)<br>
-<image src='dbnosql.png'>  <br>
+<image src='create-table.png'>  <br>
 4. menginput data/insert into table mahasiswa (create)<br>
-<image src='dbnosql.png'>  <br>
+<image src='insert-into-all.png'>  <br>
 5. membaca isi table (read)<br>
-<image src='dbnosql.png'> <br> 
+<image src='show.png'> <br> 
 6. mengupdate data (update)<br>
-<image src='dbnosql.png'> <br> 
+<image src='update.png'> <br> 
 7. menghapus data(delete)<br>
-<image src='dbnosql.png'>  
+`Delete bekerja from akademik.mahasiswa Where nim=185410172;` 
 
 </div>
 
