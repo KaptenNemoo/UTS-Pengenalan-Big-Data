@@ -1,5 +1,5 @@
 # UTS-Pengenalan-Big-Data
-
+![link ke petanikode](https://drive.google.com/drive/u/0/folders/1nP5gLrXkNTFMx-rAjqn8VDhv2XQYqarw)
 <h3>1. Cari dan sebutkan 3 DBMS yang bisa digunakan untuk mengelola big data</h3>
 berdasarkan tipe <br>
     • key value : Riak, Redis, Couchbase, Dynamodb <br>
@@ -75,3 +75,4 @@ CRUD CASSANDRA<br>
 
 </div>
 
+note
