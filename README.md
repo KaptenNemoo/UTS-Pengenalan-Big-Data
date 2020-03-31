@@ -33,19 +33,19 @@ INSTALASI<br>
 
 <div> 
 CRUD CASSANDRA<br>
-1. menjalankan cql
-<image src='dbnosql.png'>  
-2. membuat keyspace
-<image src='dbnosql.png'>  
-3. menggunakan keyspace akademik dan membuat table mahasiswa (create)
-<image src='dbnosql.png'>  
-4. menginput data/insert into table mahasiswa (create)
-<image src='dbnosql.png'>  
-5. membaca isi table (read)
-<image src='dbnosql.png'>  
-6. mengupdate data (update)
-<image src='dbnosql.png'>  
-7. menghapus data(delete)
+1. menjalankan cql<br>
+<image src='dbnosql.png'><br>  
+2. membuat keyspace<br>
+<image src='dbnosql.png'>  <br>
+3. menggunakan keyspace akademik dan membuat table mahasiswa (create)<br>
+<image src='dbnosql.png'>  <br>
+4. menginput data/insert into table mahasiswa (create)<br>
+<image src='dbnosql.png'>  <br>
+5. membaca isi table (read)<br>
+<image src='dbnosql.png'> <br> 
+6. mengupdate data (update)<br>
+<image src='dbnosql.png'> <br> 
+7. menghapus data(delete)<br>
 <image src='dbnosql.png'>  
 
 </div>
