@@ -12,22 +12,21 @@ berdasarkan tipe <br>
 CASSANDRA <br>
 INSTALASI<br>
 1. cek java dan jdk apakah sudah terinstall<br>
-<image src='dbnosql.png'>  
+<image src='java_version.png'>  
 <br>2. Download package dan ekstrak
-<image src='dbnosql.png'>  
+<image src='down-cass.png'>  
 <br>3.  Menambahkan repository cassandra ke `etc/apt/sources.list.d/cassandra/sources.list`<br>
 `echo "deb https://downloads.apache.org/cassandra/debian 311x main" | sudo tee -a /etc/apt/sources.list.d/cassandra.sources.list`
-<image src='dbnosql.png'>  
+ 
 <br>4. menambahkan key repository
-<image src='dbnosql.png'>  
+<image src='execue-key.png'>  
 <br>5. Menambahkan public key
-<image src='dbnosql.png'>  
+<image src='cass-key.png'>  
 <br>6. Install Cassandra
-<image src='dbnosql.png'>  
+<image src='insall-cass.png'>  
 <br>7.  Selesai
  untuk menjalankan cassandra `sudo service cassandra start` untuk berhenti `sudo service cassandra stop`. 
-<image src='dbnosql.png'>  
- 
+
 </div>
 
 
